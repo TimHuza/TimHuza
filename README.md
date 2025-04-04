@@ -2,7 +2,7 @@
 
 **`Junior Developer (Developer/Videographer)`**
 
-I'm a junior developer, I have tried a lot of programming languages. My favorite language is Python. I spend a lot of time programming in this language. I started programming in **Roblox Studio** with programming language **Lua** it's similar to Python but diffirent. Then I started on **Python**.
+I'm a junior developer, I have tried a lot of programming languages. My favorite language is Python. I spend a lot of time programming in this language. I started programming in **Roblox Studio** with programming language **Lua** it's similar to **Python** but diffirent. Then I started on **Python**.
 
 ---
 
