@@ -33,7 +33,7 @@ I'm a junior developer, I have tried a lot of programming languages. My favorite
 <br />
 
 #### 📌 Note
-**Tools** are what I have used and still use. And programming **languages** ​​in which I have written code and have abit of experience
+**Tools** are what I have used and still use. And programming **languages** ​​in which I have written code and have a bit of experience
 
 #
 
