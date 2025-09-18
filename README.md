@@ -36,9 +36,9 @@ I'm a junior developer, I have tried a lot of programming languages. My favorite
 **Tools** are what I have used and still use. And programming **languages** ​​in which I have written code and have a bit of experience
 
 ### Used languages
-[![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=timhuza&stats_format=bytes)]
+![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=timhuza&stats_format=bytes)
 
 ### 📊 Stats
-[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timhuza&show_icons=true&theme=radical)](https://github.com/timhuza/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timhuza&show_icons=true&theme=radical)
 
 #
