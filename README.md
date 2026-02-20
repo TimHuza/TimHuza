@@ -35,6 +35,7 @@ I'm a junior developer, I have tried a lot of programming languages. My favorite
 #### 🚀 OS (Operating System)
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+<br />
 
 #### 📌 Note
 **OS** are operating systems that I've used, have experience with, and I still use on daily bases. **Tools** are what I have used and still use. And programming **languages** are languages ​​in which I have written code before, still writing, and have a bit of experience
