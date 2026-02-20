@@ -15,6 +15,7 @@ I'm a junior developer, I have tried a lot of programming languages. My favorite
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"/>
 <img align="left" alt="Processing" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg"/>
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>
+<img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"/>
 <br />
 
 #### 💻 Languages & Frameworks
@@ -31,8 +32,12 @@ I'm a junior developer, I have tried a lot of programming languages. My favorite
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 <br />
 
+#### 🚀 OS (Operating System)
+<img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"/>
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+
 #### 📌 Note
-**Tools** are what I have used and still use. And programming **languages** ​​in which I have written code and have a bit of experience
+**OS** are operating systems that I've used, have experience with, and I still use on daily bases. **Tools** are what I have used and still use. And programming **languages** are languages ​​in which I have written code before, still writing, and have a bit of experience
 
 ### 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timhuza&show_icons=true&theme=radical)
