@@ -3,6 +3,7 @@
 **`Junior Developer (Developer/Videographer)`**
 
 I am a junior developer with experience exploring several programming languages, with a strong focus on Python. Most of my development work and learning is centered around Python, which has become my preferred language.
+
 My programming journey began in Roblox Studio, where I learned Lua. Although Lua is different from Python,T starting there helped me build a strong foundation in programming concepts. Since then I have continued developing my skills primarily in Python and expanding my knowledge through personal projects and experimentation with different technologies.
 
 ---
