@@ -2,12 +2,13 @@
 
 **`Junior Developer (Developer/Videographer)`**
 
-I'm a junior developer, I have tried a lot of programming languages. My favorite language is Python. I spend a lot of time programming in this language. My programming/coding journey I started in **Roblox Studio** with programming language **Lua** it's a bit similar to **Python** but diffirent. Then I started to code on **Python**.
+I am a junior developer with experience exploring several programming languages, with a strong focus on Python. Most of my development work and learning is centered around Python, which has become my preferred language.
+My programming journey began in Roblox Studio, where I learned Lua. Although Lua is different from Python,T starting there helped me build a strong foundation in programming concepts. Since then I have continued developing my skills primarily in Python and expanding my knowledge through personal projects and experimentation with different technologies.
 
 ---
 
 ### 📁 Languages and Tools
-#### 🧰 Tools
+#### 🧰 Development Tools & IDEs
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="PyCharm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
@@ -31,14 +32,16 @@ I'm a junior developer, I have tried a lot of programming languages. My favorite
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 <br />
 
-#### 🚀 OS (Operating System)
+#### 🚀 Operating Systems
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
 <img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"/>
 <br />
 
 #### 📌 Note
-**OS** are operating systems that I've used, have experience with, and I still use on daily bases. **Tools** are what I have used and still use. And programming **languages** are languages ​​in which I have written code before, still writing, and have a bit of experience
+**Operating Systems** – Systems I have used and continue to work with on a daily basis.  
+**Tools** – Development tools and technologies I regularly use in my workflow.  
+**Programming Languages** – Languages I have experience writing code in and continue to use in projects.
 
 ### 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timhuza&show_icons=true&theme=radical)
