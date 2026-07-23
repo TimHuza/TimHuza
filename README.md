@@ -45,10 +45,10 @@ My programming journey began in Roblox Studio, where I learned Lua. Although Lua
 **Programming Languages** – Languages I have experience writing code in and continue to use in projects.
 
 ### 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timhuza&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimHuza&show_icons=true&theme=radical)
 
 ### 🧰 Used languages
-![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=timhuza&stats_format=bytes)
+![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TimHuza&stats_format=bytes)
 
 ### 🔥 Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=TimHuza)](https://git.io/streak-stats)
