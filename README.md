@@ -1,6 +1,6 @@
 ## 🏄 Tim Huza
 
-**`Junior Developer (Developer/Videographer)`**
+**`Junior Developer`**
 
 I am a junior developer with experience exploring several programming languages, with a strong focus on Python. Most of my development work and learning is centered around Python, which has become my preferred language.
 
@@ -49,3 +49,6 @@ My programming journey began in Roblox Studio, where I learned Lua. Although Lua
 
 ### 🧰 Used languages
 ![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=timhuza&stats_format=bytes)
+
+### 🔥 Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=timhuza)](https://git.io/streak-stats)
