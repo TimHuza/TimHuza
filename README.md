@@ -44,11 +44,5 @@ My programming journey began in Roblox Studio, where I learned Lua. Although Lua
 **Tools** – Development tools and technologies I regularly use in my workflow.  
 **Programming Languages** – Languages I have experience writing code in and continue to use in projects.
 
-### 📊 Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=timhuza&show_icons=true&theme=radical)
-
 ### 🧰 Used languages
 ![My GitHub stats](https://github-readme-stats-chi-indol-45.vercel.app/api/top-langs/?username=TimHuza&stats_format=bytes&theme=dracula)
-
-### 🔥 Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=TimHuza&theme=dracula)](https://git.io/streak-stats)
