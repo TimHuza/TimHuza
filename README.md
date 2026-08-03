@@ -1,8 +1,5 @@
 ## 🏄 Tim Huza
 
-### 🌐 Socials
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TimHuza25) 
-
 **`Junior Developer`**
 
 I am a junior developer with experience exploring several programming languages, with a strong focus on Python. Most of my development work and learning is centered around Python, which has become my preferred language.
