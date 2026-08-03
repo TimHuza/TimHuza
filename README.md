@@ -45,15 +45,10 @@ My programming journey began in Roblox Studio, where I learned Lua. Although Lua
 **Tools** – Development tools and technologies I regularly use in my workflow.  
 **Programming Languages** – Languages I have experience writing code in and continue to use in projects.
 
-### 🧰 Used languages
-![My GitHub stats](https://github-readme-stats-chi-indol-45.vercel.app/api/top-langs/?username=TimHuza&stats_format=bytes&theme=dracula)
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=TimHuza&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=TimHuza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=TimHuza&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=TimHuza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=TimHuza&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🔥 Streak:
+![GitHub Streak](https://github-readme-stats.shion.dev/api/top-langs/?username=TimHuza&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
