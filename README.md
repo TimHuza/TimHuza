@@ -1,4 +1,6 @@
 ## 🏄 Tim Huza
+
+### 🌐 Socials
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TimHuza25) 
 
 **`Junior Developer`**
@@ -45,8 +47,8 @@ My programming journey began in Roblox Studio, where I learned Lua. Although Lua
 **Tools** – Development tools and technologies I regularly use in my workflow.  
 **Programming Languages** – Languages I have experience writing code in and continue to use in projects.
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=TimHuza&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-## 🔥 Streak:
+### 🔥 Streak:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=TimHuza&theme=dark&hide_border=false)<br/>
