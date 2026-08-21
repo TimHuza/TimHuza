@@ -46,6 +46,3 @@ My programming journey began in Roblox Studio, where I learned Lua. Although Lua
 
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=TimHuza&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-### 🔥 Streak:
-![GitHub Streak](https://streak-stats.demolab.com/?user=TimHuza&theme=dark&hide_border=false)<br/>
